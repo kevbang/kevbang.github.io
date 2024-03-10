@@ -1,0 +1,9 @@
+{
+    "image": "images/kevin.jpeg",
+    "skillImg": "images/skills.png",
+    "educationImg": "images/education.png",
+    "experienceImg": "images/experience.png",
+    "skillText": "I am proficient in various languages such as C, Java, and Python. I am currently learning other languages such as JavaScript, HTML, and CSS as well. Unit testing is another skill that I am proficient at. I also have a background in cloud security and AWS in general.",
+    "educationText": "I am currently a second-year student at Iowa State University, majoring in Software Engineering. I am expected to graduate May, 2026. Current GPA is: 3.37",
+    "experienceText": "Part-Time Software Engineering at John Deere. I work on the Cloud Security team as a part-time student. As a part-time student, I am able to flex my work hours around my school schedule. I work closely with full-time software engineers which exceled my growth."
+}
